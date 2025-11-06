@@ -1,0 +1,49 @@
+.center{
+            font-size: 50px;
+            background-color: rgb(253, 0, 0);
+            color: white;
+            border: 1px solid black;
+            text-align: center;
+        }
+        .table , tr , td{
+            border: 1px solid black;
+            text-align: center;
+            width: 200px;
+            height: 20px;
+        }
+        .border-none{
+            border: none;
+        }
+        .yellow{
+            background-color: yellow;
+        }
+        .gray{
+            background-color: gray;
+        }
+        .purple{
+            background-color: purple;
+        }
+        .red{
+            background-color: red;
+        }
+        .texg-black{
+            color: black;
+        }
+        .text-blue{
+            color: blue;
+        }
+        .text-white{
+            color: white;
+        }
+        .text-green{
+            color: green;
+        }
+        .text-decoration{
+            text-decoration: none;
+        }
+        .background{
+            background-color: blue;
+            color: white;
+            font-size: 25px;
+            padding: 10px 12px;
+        }
